@@ -1,6 +1,5 @@
 # :technologist: Mohammad Emad Rasooli 
-
-Frontend developer & web designer
+**Frontend developer & web designer**
 
 HTML | CSS | JavaScript | Bootstrap
 
@@ -11,4 +10,4 @@ HTML | CSS | JavaScript | Bootstrap
 
 ### About Me :point_down:
 
-Hi there! I'm Mohammad Emad Rasooli, a dedicated computer science student at Herat University with a flair for frontend development. My toolkit includes HTML, CSS, JavaScript, and Bootstrap, and I have a keen eye for web design, focusing on UI and UX principles. I thrive on learning new technologies and bringing innovative ideas to life. Let's connect and create something extraordinary together!
+Hi there! I'm **_Mohammad Emad Rasooli_**, a dedicated computer science student at Herat University with a flair for frontend development. My toolkit includes HTML, CSS, JavaScript, and Bootstrap, and I have a keen eye for web design, focusing on UI and UX principles. I thrive on learning new technologies and bringing innovative ideas to life. Let's connect and create something extraordinary together!
