@@ -1,13 +1,21 @@
-# :technologist: Mohammad Emad Rasooli 
-**Frontend developer & web designer**
+### Hey there, I’m Mohammad Emad Rasooli 👋
 
-HTML | CSS | JavaScript | Bootstrap
+💻 **Frontend Developer & Web Designer**  
+🎓 Computer Science student — 6th semester @ **Herat University**
 
- ![icons8-html-logo-48](https://github.com/user-attachments/assets/351b514e-c59b-4faa-8c9c-bf6914de306a)
-![icons8-css-logo-48](https://github.com/user-attachments/assets/cbfff20c-1143-41aa-8bc4-3a7fb9257b3b)
-![icons8-javascript-48](https://github.com/user-attachments/assets/cebd1a39-a1cc-4e38-9f6b-31fff5bef6ca)
-![icons8-bootstrap-logo-48](https://github.com/user-attachments/assets/5a30ae4c-2e44-4f9a-83e0-6c8236ce369b)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind,bootstrap,materialui,figma)
+---
 
-### About Me :point_down:
+- 🔭  Building beautiful, accessible web experiences with **React, Next.js, TypeScript, Tailwind CSS, Bootstrap & Material UI**  
+- 🗄️  Data‑driven projects powered by **Prisma ORM**, **Firebase**, and **Supabase**  
+- 🎨  Pixel‑perfect UI and thoughtful UX are my happy place  
+- ✨  Guided by **clean code** principles and a passion for **lifelong learning**  
+- 🌱  Currently exploring server components and edge functions  
+- 📚  When I’m not coding, I’m designing, reading, or picking up a new skill just for fun
 
-Hi there! I'm **_Mohammad Emad Rasooli_**, a dedicated computer science student at Herat University with a flair for frontend development. My toolkit includes HTML, CSS, JavaScript, and Bootstrap, and I have a keen eye for web design, focusing on UI and UX principles. I thrive on learning new technologies and bringing innovative ideas to life. Let's connect and create something extraordinary together!
+---
+
+🤝 **Let’s create something extraordinary together!**
+
+[Portfolio](https://emad-rasooli-portfolio.vercel.app/) • [LinkedIn](www.linkedin.com/in/emad-rasooli) • [Twitter / X](https://x.com/M_Emad2004) • [Email](mailto:rasooliemad2004@gmail.com)
+
