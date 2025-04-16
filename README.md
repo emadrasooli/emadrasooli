@@ -17,5 +17,7 @@
 
 🤝 **Let’s create something extraordinary together!**
 
-[Portfolio](https://emad-rasooli-portfolio.vercel.app/) • [LinkedIn](www.linkedin.com/in/emad-rasooli) • [Twitter / X](https://x.com/M_Emad2004) • [Email](mailto:rasooliemad2004@gmail.com)
+[![ER-logo-white](https://github.com/user-attachments/assets/2ab26d46-e906-4fd5-b421-bb1d032e155c)](https://emad-rasooli-portfolio.vercel.app/) 
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emad-rasooli/)  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/M_Emad2004) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:rasooliemad2004@gmail.com)
 
